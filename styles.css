@@ -1,0 +1,24 @@
+#judul {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+}
+#yoimiya{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px;
+}
+#deskripsi{
+    font-family: 'Quicksand', sans-serif;
+    text-align: justify;
+    font-size: 20px;
+    margin: 40px;
+}
+#video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px;
+    border-radius: 5%;
+}
